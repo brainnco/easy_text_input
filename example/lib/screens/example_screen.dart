@@ -60,7 +60,7 @@ class ExampleScreenState extends State<ExampleScreen> {
             InputField(
               stream: exampleBloc.phone,
               labelText: 'Phone',
-              obscureText: true,
+              obscureText: false,
               onChanged: exampleBloc.sinkPhone,
               controller: MaskedTextController(mask: '(00) 00000-00000'),
               hintText: '(31) 91234-5678',

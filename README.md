@@ -2,11 +2,28 @@
 
 An easy to use, complete text input brought to you by Brainn.co
 
-## Getting Started
+### Installation
+
+Add this to your pubspec.yaml (or create it):
+
+```yaml
+dependencies:
+easy_text_input: ^1.0.0
+```
+
+Then run the flutter tooling:
+
+```bash
+flutter packages get
+```
+
+## Demo
+
+![demo](https://github.com/CarlosMion/Gifs-and-Images/blob/master/easyTextInput.gif)
 
 ## How to use
 
-You will need a Bloc with a stream to controll the data flowing through the InputField, for a better explanation please check the example folder.
+You will need a Bloc with a stream to controll the data flowing through the InputField, for a better explanation on how blocs work please check the example folder.
 
 #### Simple Field
 
