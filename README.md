@@ -189,7 +189,7 @@ Customizable attributes for InputField
     </tr>
     <tr>
         <td>successColor</td>
-        <td>aaaaaaaaColoraaaaaaa</td>
+        <td>Color</td>
         <td>false</td>
         <td>Colors.green</td>
         <td>Colors.blue</td>
