@@ -1,4 +1,4 @@
-import 'package:easy_text_input/input_field.dart';
+import 'package:easy_text_input/easy_text_input.dart';
 import 'package:example/widgets/eye_icon.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_masked_text/flutter_masked_text.dart';
