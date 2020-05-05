@@ -1,7 +1,7 @@
 name: easy_text_input
 description: An easy to use, complete, customisable, non-verbose text input brought to you by Brainn.co
-version: 1.0.0
-homepage: https://github.com/brainnco/easy_text_input/
+version: 1.0.1
+homepage: https://github.com/brainn-co/easy_text_input
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
