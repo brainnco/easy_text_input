@@ -8,7 +8,7 @@ Add this to your pubspec.yaml (or create it):
 
 ```yaml
 dependencies:
-easy_text_input: ^1.0.0
+easy_text_input: ^1.0.1
 ```
 
 Then run the flutter tooling:
